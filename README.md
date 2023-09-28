@@ -1,4 +1,4 @@
-![Funny GIF](https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif)
+![Funny GIF](spongebobgiphy.webp)
 ### Hello, I'm Siya (sai-yuh)👋
 
 ## Major
