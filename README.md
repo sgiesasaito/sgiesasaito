@@ -14,3 +14,6 @@
 
 ## My Links
 * https://www.instagram.com/siyajahn/
+
+## Dept. of Design EWU
+* https://www.ewu.edu/cstem/design/contact-us/
