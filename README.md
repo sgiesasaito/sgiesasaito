@@ -1,16 +1,16 @@
-### Hi there 👋
+![Funny GIF](https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif)
+### Hello, I'm Siya (sai-yuh)👋
 
-<!--
-**sgiesasaito/sgiesasaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Major
+**BDes** Visual Communication Design, Eastern Washington University
 
-Here are some ideas to get you started:
+## Skills
+- UX Design
+- Packaging Design
+- Illustration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+- I like french fries A LOT!
+
+## My Links
+* https://www.instagram.com/siyajahn/
